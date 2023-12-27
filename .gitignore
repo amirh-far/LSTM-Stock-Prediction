@@ -1,3 +1,4 @@
 dataset zip/
 stocks-data/
 .ipynb_checkpoints/
+.DS_Store
