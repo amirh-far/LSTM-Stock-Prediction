@@ -1,6 +1,7 @@
 # LSTM Stock Prediction
 
-Stock prediction model with LSTM, with 14,000,000 stock data.
+Stock prediction model with LSTM, with 14,000,000 stock data. <br>
+LSTM (Long Short-Term Memory) is a recurrent neural network (RNN) architecture widely used in Deep Learning. It excels at capturing long-term dependencies, making it ideal for sequence prediction tasks.
 
 ## Features
 
