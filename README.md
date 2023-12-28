@@ -1,6 +1,6 @@
-# LTSM Stock Prediction
+# LSTM Stock Prediction
 
-Stock prediction model with LTSM, with 14,000,000 stock data.
+Stock prediction model with LSTM, with 14,000,000 stock data.
 
 ## Features
 
